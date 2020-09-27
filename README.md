@@ -4,7 +4,7 @@ Food Demand Forecasting for Food Delivery Company
 
 # FOOD DEMAND FORECASTING
 
-In this project the decision tree regressor is usedt
+In this project the decision tree regressor is used
 the youtube link is given below
 
 # https://youtu.be/Xznhwr-gbp4
